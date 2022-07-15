@@ -4,7 +4,7 @@
 
 Para compilar o programa é necessário utilizar o python3 e basta utilizar o seguinte comando no terminal:
 
-``python3 analiseSintatica.py`` 
+``python3 compilador.py`` 
 
 O retorno da execução será um print contendo todos os tokens encontrados e sua devida descrição. E, caso seja possível converter o código em C, uma mensagem de sucesso será apresentada. Você também deve utilizar os arquivos em C contidos na pasta 'CodigosTesteC' já que eles estão um formato no qual o compilador consegue interpretar, para ficar mais fácil, todos os arquivos já estão no compilador, basta tirar o comentário do bloco que você deseja executar.
 
